@@ -1,0 +1,34 @@
+{
+  "customer": [
+    {
+      "id": "1",
+      "name": "raju",
+      "contactno": 34848848,
+      "email": "r@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "p",
+      "contactno": "7777777777",
+      "email": "p@gmail.com",
+      "password": "123",
+      "id": "DMsq9WV"
+    }
+  ],
+  "account": [
+    {
+      "cus_id": "1",
+      "submit_amount": "1000",
+      "date": "13/04/2024",
+      "withdraw_amount": 0,
+      "id": 1
+    },
+    {
+      "cus_id": "1",
+      "submit_amount": "1000",
+      "date": "13/04/2024",
+      "withdraw_amount": 0,
+      "id": 2
+    }
+  ]
+}
